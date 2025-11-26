@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-home",
+      "description": "Accesorios en tendencia con 40% de descuento",
+      "imageUrl": "/imagenes/8.jpg",
+      "imageHint": "jewelry accessories"
+    },
+    {
+      "id": "product-1",
+      "description": "Primer plano de un labial rojo mate",
+      "imageUrl": "/imagenes/1.jpg",
+      "imageHint": "matte lipstick"
+    },
+    {
+      "id": "product-2",
+      "description": "Frasco de base de maquillaje junto a una brocha",
+      "imageUrl": "/imagenes/10.jpg",
+      "imageHint": "makeup foundation"
+    },
+    {
+      "id": "product-3",
+      "description": "Paleta de sombras de ojos con tonos tierra y brillantes",
+      "imageUrl": "/imagenes/3.jpg",
+      "imageHint": "eyeshadow palette"
+    },
+    {
+      "id": "product-7",
+      "description": "Set de collares dorados en un joyero",
+      "imageUrl": "https://images.unsplash.com/photo-1697486918393-d6603a1ab7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnb2xkJTIwbmVja2xhY2VzfGVufDB8fHx8MTc2MzkyMjY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold necklaces"
+    },
+    {
+      "id": "product-8",
+      "description": "Pulseras de perlas y oro",
+      "imageUrl": "https://images.unsplash.com/photo-1649988896730-007a9388fd4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZWFybCUyMGJyYWNlbGV0c3xlbnwwfHx8fDE3NjM5MjI2OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pearl bracelets"
+    },
+    {
+      "id": "product-9",
+      "description": "Aretes dorados pequeños y brillantes",
+      "imageUrl": "https://images.unsplash.com/photo-1758995115555-766abbd9a491?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z29sZCUyMGVhcnJpbmdzfGVufDB8fHx8MTc2MzgyMjg0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold earrings"
+    },
+    {
+      "id": "contact-us",
+      "description": "Una composición elegante con cosméticos y un cuaderno para contacto.",
+      "imageUrl": "https://images.unsplash.com/photo-1497534547324-0ebb3f052e88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWF1dHklMjBmbGF0bGF5fGVufDB8fHx8MTc2MzkyMzQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beauty flatlay"
+    }
+  ]
+}
