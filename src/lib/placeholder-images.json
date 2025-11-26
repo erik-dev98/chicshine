@@ -9,19 +9,19 @@
     {
       "id": "product-1",
       "description": "Primer plano de un labial rojo mate",
-      "imageUrl": "/imagenes/1.jpg",
+      "imageUrl": "/Imagenes/1.jpg",
       "imageHint": "matte lipstick"
     },
     {
       "id": "product-2",
       "description": "Frasco de base de maquillaje junto a una brocha",
-      "imageUrl": "/imagenes/10.jpg",
+      "imageUrl": "/Imagenes/10.jpg",
       "imageHint": "makeup foundation"
     },
     {
       "id": "product-3",
       "description": "Paleta de sombras de ojos con tonos tierra y brillantes",
-      "imageUrl": "/imagenes/3.jpg",
+      "imageUrl": "/Imagenes/3.jpg",
       "imageHint": "eyeshadow palette"
     },
     {
