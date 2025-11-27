@@ -9,7 +9,7 @@
     {
       "id": "product-1",
       "description": "Primer plano de un labial rojo mate",
-      "imageUrl": "/Imagenes/1.jpg",
+      "imageUrl": "/Imagenes/4.jpg",
       "imageHint": "matte lipstick"
     },
     {
@@ -45,7 +45,7 @@
     {
       "id": "contact-us",
       "description": "Una composición elegante con cosméticos y un cuaderno para contacto.",
-      "imageUrl": "https://images.unsplash.com/photo-1497534547324-0ebb3f052e88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWF1dHklMjBmbGF0bGF5fGVufDB8fHx8MTc2MzkyMzQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/Imagenes/11.jpg",
       "imageHint": "beauty flatlay"
     }
   ]

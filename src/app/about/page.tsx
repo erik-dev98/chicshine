@@ -2,23 +2,23 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const milestones = [
     {
-        year: "1997",
-        description: "Nacimos en Monterrey con el sueño de transformar la belleza tal como la conocíamos."
+        year: "2025",
+        description: "Nacimos en Perú con el sueño de transformar la belleza tal como la conocíamos."
     },
     {
-        year: "1998",
+        year: "2025",
         description: "Creamos y patentamos nuestro labial insignia \"Lunáticas\"."
     },
     {
-        year: "1999",
+        year: "2025",
         description: "Rompimos un récord inimaginable: ¡Vendimos 100,000 labiales!"
     },
     {
-        year: "2001",
-        description: "Llegó la hora de abrir fronteras y realzar la belleza de Monterrey, Sonora, Jalisco y Ciudad de México."
+        year: "2025",
+        description: "Llegó la hora de abrir fronteras y realzar la belleza de las provincias del Perú y La ciudad de Lima."
     },
     {
-        year: "2030",
+        year: "2025",
         description: "Estamos planeando conquistar Canadá y Estados Unidos y regalarles un poco de nuestra esencia."
     }
 ];
