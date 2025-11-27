@@ -11,7 +11,7 @@ const milestones = [
     },
     {
         year: "2025",
-        description: "Rompimos un récord inimaginable: ¡Vendimos 100,000 labiales!"
+        description: "Estamos planeando conquistar cada rincon del Perú y regalarles un poco de nuestra esencia."
     },
     {
         year: "2025",
@@ -19,7 +19,7 @@ const milestones = [
     },
     {
         year: "2025",
-        description: "Estamos planeando conquistar Canadá y Estados Unidos y regalarles un poco de nuestra esencia."
+        description: "Estamos Presente en las principales plataforma de redes sociales, Facebook, Tiktok y Instagram."
     }
 ];
 
